@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a4aad50-d8da-47ed-8ab8-e61edd5fb7d0" name="Changes" comment="cambio">
-      <change beforePath="$PROJECT_DIR$/ms-producto-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-producto-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xd.html/Captura de Pantalla 2023-09-07 a la(s) 08.18.30.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/entity/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "ms-config-server",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/gary/Desktop/Practice/Practice-DAD/config-data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,6 +65,7 @@
       <workItem from="1693752907557" duration="1315000" />
       <workItem from="1693832492231" duration="5512000" />
       <workItem from="1694745611494" duration="1286000" />
+      <workItem from="1694885544937" duration="1313000" />
     </task>
     <servers />
   </component>
